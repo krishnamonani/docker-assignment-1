@@ -16,7 +16,8 @@ Developed a simple web application using Python (Flask) to serve as the backend.
 ├── Dockerfile
 ├── README.md
 ```
-
+![image.png](attachment:fc02c92a-305a-4071-8130-b6f5486cd000:image.png)
+![image.png](attachment:1a719118-8eb8-451b-8285-2b482a25cc87:image.png)
 ### 2. Write a Dockerfile (Multi-Stage Build)
 
 ```dockerfile
